@@ -162,7 +162,7 @@ npm run dev
 ### 5️⃣ Visit App
 
 ```
-http://localhost:5173
+https://synergy-rouge-three.vercel.app/
 ```
 
 ---
